@@ -9,3 +9,5 @@ To start with I made a scatterplot showing the ages of Grand Prix winners from t
 ![](https://github.com/jcohanlon/Data_115_Personal_Data_Set/blob/main/Age%20of%20Driver%20to%20win%20GP%20Hist.%20five%20yrs..png)
 This next visalization is a histogram that gives the viewer an idea of how many drivers have won GP's by age. This graph supports the last graph as it shows how the majority of Grand Prix winning drivers are between the ages of around 25 and 34. Additionally, it shows that the ideal age to win in Formula One seems to be around 31 and 32. Performance younger than that seems to slowly increase as drivers get more experience well performance once you get older than that seems to drop off quite drastically and quick.
 # Analysis
+![]
+![](https://github.com/jcohanlon/Data_115_Personal_Data_Set/blob/main/Boxplot%20Distribution%20by%20Track%20and%20Age%20Done.png)
